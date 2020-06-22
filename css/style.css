@@ -236,7 +236,8 @@ body {
 }
 .article-entry hr,
 .widget hr {
-  border: 1px dashed #ddd;
+  border: 0;
+  border-top: 1px solid #ddd;
 }
 .article-entry strong,
 .widget strong {
@@ -710,19 +711,20 @@ a.article-title:hover {
   color: #999;
   text-decoration: none;
 }
-.article-footer a.article-tag-list-link {
-  color: #757575;
-  padding: 5px 10px;
-  border-radius: 3px;
-  line-height: 22px;
-  background: #f2f2f2 none repeat scroll 0% 0%;
-}
 .article-footer a:hover {
   color: #414141;
 }
 .article-tag-list-item {
   float: left;
   margin-right: 10px;
+  margin-bottom: 10px;
+}
+.article-tag-list-link {
+  color: #757575;
+  padding: 5px 10px;
+  border-radius: 3px;
+  line-height: 22px;
+  background: #f2f2f2 none repeat scroll 0% 0%;
 }
 .article-tag-list-link:before {
   content: "#";
