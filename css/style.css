@@ -729,6 +729,9 @@ a.article-title:hover {
 .article-tag-list-link:before {
   content: "#";
 }
+.article-footer-tool {
+  clear: left;
+}
 .article-comment-link {
   float: right;
 }
