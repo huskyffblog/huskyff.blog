@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://huskyff.blog/"/>
-  <updated>2020-06-23T09:21:32.552Z</updated>
+  <updated>2020-06-23T10:10:18.593Z</updated>
   <id>https://huskyff.blog/</id>
   
   <author>
@@ -15,6 +15,32 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>計算你的被動收入趨勢</title>
+    <link href="https://huskyff.blog/2020/06/24/calculate-your-passive-income-trend/"/>
+    <id>https://huskyff.blog/2020/06/24/calculate-your-passive-income-trend/</id>
+    <published>2020-06-23T16:00:00.000Z</published>
+    <updated>2020-06-23T10:10:18.593Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;這篇文章將使用 Google Sheet 做一個簡單的被動收入趨勢範例。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/images/20200624-calculate-your-passive-income-trend/sample.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+    
+    </summary>
+    
+    
+    
+      <category term="被動收入" scheme="https://huskyff.blog/tags/%E8%A2%AB%E5%8B%95%E6%94%B6%E5%85%A5/"/>
+    
+      <category term="投資" scheme="https://huskyff.blog/tags/%E6%8A%95%E8%B3%87/"/>
+    
+      <category term="圖表" scheme="https://huskyff.blog/tags/%E5%9C%96%E8%A1%A8/"/>
+    
+      <category term="工具" scheme="https://huskyff.blog/tags/%E5%B7%A5%E5%85%B7/"/>
+    
+  </entry>
   
   <entry>
     <title>被動收入來源 (3-1) 虛擬貨幣借貸</title>

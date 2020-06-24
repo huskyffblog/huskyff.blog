@@ -1,0 +1,229 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  
+<!-- Google Analytics -->
+<script type="text/javascript">
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+ga('create', 'UA-170215895-1', 'auto');
+ga('send', 'pageview');
+
+</script>
+<!-- End Google Analytics -->
+
+
+  
+  <title>計算你的被動收入趨勢 | 哈先生的財務自由之路</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+  <meta name="description" content="這篇文章將使用 Google Sheet 做一個簡單的被動收入趨勢範例。">
+<meta property="og:type" content="article">
+<meta property="og:title" content="計算你的被動收入趨勢">
+<meta property="og:url" content="https://huskyff.blog/2020/06/24/calculate-your-passive-income-trend/">
+<meta property="og:site_name" content="哈先生的財務自由之路">
+<meta property="og:description" content="這篇文章將使用 Google Sheet 做一個簡單的被動收入趨勢範例。">
+<meta property="og:locale" content="zh_TW">
+<meta property="og:image" content="https://huskyff.blog/logo.jpg">
+<meta property="article:published_time" content="2020-06-23T16:00:00.000Z">
+<meta property="article:modified_time" content="2020-06-23T10:10:18.593Z">
+<meta property="article:author" content="Husky">
+<meta property="article:tag" content="被動收入">
+<meta property="article:tag" content="投資">
+<meta property="article:tag" content="圖表">
+<meta property="article:tag" content="工具">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:image" content="https://huskyff.blog/logo.jpg">
+  
+    <link rel="alternate" href="/atom.xml" title="哈先生的財務自由之路" type="application/atom+xml">
+  
+  
+    <link rel="icon" href="/logo.png">
+  
+  
+    <link href="//fonts.googleapis.com/css?family=Source+Code+Pro" rel="stylesheet" type="text/css">
+  
+  
+<link rel="stylesheet" href="/css/style.css">
+
+<meta name="generator" content="Hexo 4.2.1"></head>
+
+<body>
+  <div id="container">
+    <div id="wrap">
+      <header id="header">
+  <div id="banner"></div>
+  <div id="header-outer" class="outer">
+    <div id="header-title" class="inner">
+      <h1 id="logo-wrap">
+        <a href="/" id="logo">哈先生的財務自由之路</a>
+      </h1>
+      
+        <h2 id="subtitle-wrap">
+          <a href="/" id="subtitle">一步一步建立起通往財務自由的路</a>
+        </h2>
+      
+    </div>
+    <div id="header-inner" class="inner">
+      <nav id="main-nav">
+        <a id="main-nav-toggle" class="nav-icon"></a>
+        
+          <a class="main-nav-link" href="/">Home</a>
+        
+          <a class="main-nav-link" href="/archives">Archives</a>
+        
+      </nav>
+      <nav id="sub-nav">
+        
+          <a id="nav-rss-link" class="nav-icon" href="/atom.xml" title="RSS Feed"></a>
+        
+        <a id="nav-search-btn" class="nav-icon" title="搜尋"></a>
+      </nav>
+      <div id="search-form-wrap">
+        <form action="//google.com/search" method="get" accept-charset="UTF-8" class="search-form"><input type="search" name="q" class="search-form-input" placeholder="Search"><button type="submit" class="search-form-submit">&#xF002;</button><input type="hidden" name="sitesearch" value="https://huskyff.blog"></form>
+      </div>
+    </div>
+  </div>
+</header>
+      <div class="outer">
+        <section id="main"><article id="post-calculate-your-passive-income-trend" class="article article-type-post" itemscope itemprop="blogPost">
+  <div class="article-meta">
+    <a href="/2020/06/24/calculate-your-passive-income-trend/" class="article-date">
+  <time datetime="2020-06-23T16:00:00.000Z" itemprop="datePublished">2020-06-24</time>
+</a>
+    
+  </div>
+  <div class="article-inner">
+    
+    
+      <header class="article-header">
+        
+  
+    <h1 class="article-title" itemprop="name">
+      計算你的被動收入趨勢
+    </h1>
+  
+
+      </header>
+    
+    <div class="article-entry" itemprop="articleBody">
+      
+        <p>這篇文章將使用 Google Sheet 做一個簡單的被動收入趨勢範例。</p>
+<p><img src="/images/20200624-calculate-your-passive-income-trend/sample.png" alt=""></p>
+<a id="more"></a>
+
+<p>可以從 <a href="https://bit.ly/37GvxiQ" target="_blank" rel="noopener">這個 Google Sheet</a> 建立副本自己編輯自己的數值。</p>
+<p>簡單說明一下這個表格，使用方法是調整左邊「數值設定」區域之後，右邊的表格就會被自動計算出來。可調整的部分簡單分成：收入、支出、投資幾個區塊。</p>
+<p>收入的部分可以設定自己目前的年收入，預估每年成長調薪的比例，以及預估自己薪資的天花板（表格裡面為了方便計算，不考慮稅務，所以記得收入是稅後的。）。支出的部分也是設定目前每年支出，預估每年支出的成長比例，以及最高的年支出天花板。投資的部分就是估計自己的年化報酬率，以及想要達到財務自由時，財務自由的預留係數，也就是被動收入要高於基礎花費的多少倍。</p>
+<p>觀察這個表可以發現，起出尚未投資時，主要收入來源都來自主動收入，隨著一年一年過去，被動收入佔收入的比例會慢慢升高，差不多超過主動收入之時，就是可以財務自由的時候了！</p>
+<hr>
+<p>可以調整這個表格的支出，觀察如果起始花費越高，財務自由的年份就會延後，這個是生活中可以取捨的部分，如果多花了一些錢可以讓生活變得更快樂，那晚個一兩年可能也無妨，找到自己的平衡點就好。</p>
+<p>也可以觀察提整自己的投資報酬率，如果調成只有 3% 的話，就很難可以財務自由，差不多就是投資定存或利率超低的債券。但是如果調成 7%，差不多就相當股市的回報率，年份就會縮短許多。如果調成 12% 左右，就算是一些比較高風險的投資或是長年牛市時的市場，年份可能就可以縮短更多。可以找到自己覺得合適的年數，推算自己需要的報酬率，再去思考相對應的風險。</p>
+<hr>
+<p>把長期的目標數據化的分析，可以建立自己長期的步調，而不會在短暫的過程中迷惘，不知道自己進行到了哪裡。也能透過數字計算，知道自己正朝著自由的方向慢慢努力。一步一腳印，就是這個道理！</p>
+
+      
+    </div>
+    <footer class="article-footer">
+      
+  <ul class="article-tag-list" itemprop="keywords"><li class="article-tag-list-item"><a class="article-tag-list-link" href="/tags/%E5%9C%96%E8%A1%A8/" rel="tag">圖表</a></li><li class="article-tag-list-item"><a class="article-tag-list-link" href="/tags/%E5%B7%A5%E5%85%B7/" rel="tag">工具</a></li><li class="article-tag-list-item"><a class="article-tag-list-link" href="/tags/%E6%8A%95%E8%B3%87/" rel="tag">投資</a></li><li class="article-tag-list-item"><a class="article-tag-list-link" href="/tags/%E8%A2%AB%E5%8B%95%E6%94%B6%E5%85%A5/" rel="tag">被動收入</a></li></ul>
+
+      <div class="article-footer-tool">
+        <a data-url="https://huskyff.blog/2020/06/24/calculate-your-passive-income-trend/" data-id="ckbrqty28000v3rib1z4q9okl" class="article-share-link">Share</a>
+        
+          <a href="https://huskyff.blog/2020/06/24/calculate-your-passive-income-trend/#disqus_thread" class="article-comment-link">留言</a>
+        
+      </div>
+    </footer>
+  </div>
+  
+    
+<nav id="article-nav">
+  
+  
+    <a href="/2020/06/23/passive-income-source-3-1-crypto-lending/" id="article-nav-older" class="article-nav-link-wrap">
+      <strong class="article-nav-caption">Older</strong>
+      <div class="article-nav-title">被動收入來源 (3-1) 虛擬貨幣借貸</div>
+    </a>
+  
+</nav>
+
+  
+</article>
+
+
+<section id="comments">
+  <div id="disqus_thread">
+    <noscript>Please enable JavaScript to view the <a href="//disqus.com/?ref_noscript" target="_blank" rel="noopener">comments powered by Disqus.</a></noscript>
+  </div>
+</section>
+
+</section>
+        
+          <aside id="sidebar">
+  
+    
+
+  
+</aside>
+
+        
+      </div>
+      <footer id="footer">
+  
+  <div class="outer">
+    <div id="footer-info" class="inner">
+      &copy; 2020 Husky<br>
+      本部落格為作者經驗分享，不應作為投資建議。<br>
+      Powered by <a href="http://hexo.io/" target="_blank">Hexo</a>
+    </div>
+  </div>
+</footer>
+
+    </div>
+    <nav id="mobile-nav">
+  
+    <a href="/" class="mobile-nav-link">Home</a>
+  
+    <a href="/archives" class="mobile-nav-link">Archives</a>
+  
+</nav>
+    
+<script>
+  var disqus_shortname = 'huskyff';
+  
+  var disqus_url = 'https://huskyff.blog/2020/06/24/calculate-your-passive-income-trend/';
+  
+  (function(){
+    var dsq = document.createElement('script');
+    dsq.type = 'text/javascript';
+    dsq.async = true;
+    dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+    (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+  })();
+</script>
+
+
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.0.3/jquery.min.js"></script>
+
+
+  
+<link rel="stylesheet" href="/fancybox/jquery.fancybox.css">
+
+  
+<script src="/fancybox/jquery.fancybox.pack.js"></script>
+
+
+
+
+<script src="/js/script.js"></script>
+
+
+
+
+  </div>
+</body>
+</html>

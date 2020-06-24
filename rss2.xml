@@ -15,8 +15,24 @@
     <atom:link href="/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description></description>
-    <pubDate>Tue, 23 Jun 2020 09:21:32 GMT</pubDate>
+    <pubDate>Tue, 23 Jun 2020 10:10:18 GMT</pubDate>
     <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>計算你的被動收入趨勢</title>
+      <link>https://huskyff.blog/2020/06/24/calculate-your-passive-income-trend/</link>
+      <guid>https://huskyff.blog/2020/06/24/calculate-your-passive-income-trend/</guid>
+      <pubDate>Tue, 23 Jun 2020 16:00:00 GMT</pubDate>
+      <description>
+      
+        &lt;p&gt;這篇文章將使用 Google Sheet 做一個簡單的被動收入趨勢範例。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/images/20200624-calculate-your-passive-income-trend/sample.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+      
+      </description>
+      
+      
+      <comments>https://huskyff.blog/2020/06/24/calculate-your-passive-income-trend/#disqus_thread</comments>
+    </item>
     
     <item>
       <title>被動收入來源 (3-1) 虛擬貨幣借貸</title>
