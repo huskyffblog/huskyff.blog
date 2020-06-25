@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://huskyff.blog/"/>
-  <updated>2020-06-23T10:10:18.593Z</updated>
+  <updated>2020-06-24T15:29:21.582Z</updated>
   <id>https://huskyff.blog/</id>
   
   <author>
@@ -15,6 +15,32 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>被動收入實例 (1-1) VTI</title>
+    <link href="https://huskyff.blog/2020/06/25/passive-income-example-1-1-vti/"/>
+    <id>https://huskyff.blog/2020/06/25/passive-income-example-1-1-vti/</id>
+    <published>2020-06-24T16:00:00.000Z</published>
+    <updated>2020-06-24T15:29:21.582Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;本篇文章將舉 VTI 作為一個被動收入的實際案例。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://investor.vanguard.com/etf/profile/VTI&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;VTI&lt;/a&gt; 是 Vanguard 先鋒基金出的整體股市 ETF (Vanguard Total Stock Market ETF)，追蹤的指數是 CRSP 美國全市場指數 (CRSP US Total Market Index)，管理費為每年 0.03%。&lt;/p&gt;
+    
+    </summary>
+    
+    
+    
+      <category term="被動收入" scheme="https://huskyff.blog/tags/%E8%A2%AB%E5%8B%95%E6%94%B6%E5%85%A5/"/>
+    
+      <category term="大盤" scheme="https://huskyff.blog/tags/%E5%A4%A7%E7%9B%A4/"/>
+    
+      <category term="例子" scheme="https://huskyff.blog/tags/%E4%BE%8B%E5%AD%90/"/>
+    
+      <category term="美股" scheme="https://huskyff.blog/tags/%E7%BE%8E%E8%82%A1/"/>
+    
+  </entry>
   
   <entry>
     <title>計算你的被動收入趨勢</title>
