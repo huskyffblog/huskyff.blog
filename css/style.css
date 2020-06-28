@@ -589,10 +589,10 @@ a.article-title:hover {
 }
 .article-entry a {
   color: #000;
-  text-decoration: none;
+  text-decoration: underline;
 }
 .article-entry a:hover {
-  text-decoration: underline;
+  color: #333;
 }
 .article-entry ul,
 .article-entry ol,
