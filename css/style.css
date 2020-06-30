@@ -624,6 +624,18 @@ a.article-title:hover {
   border-bottom: 1px solid #ddd;
   padding: 10px 0;
 }
+.article-entry th[align="left"],
+.article-entry td[align="left"] {
+  text-align: left;
+}
+.article-entry th[align="center"],
+.article-entry td[align="center"] {
+  text-align: center;
+}
+.article-entry th[align="right"],
+.article-entry td[align="right"] {
+  text-align: right;
+}
 .article-entry blockquote {
   font-family: Georgia, "Times New Roman", serif;
   font-size: 1.4em;

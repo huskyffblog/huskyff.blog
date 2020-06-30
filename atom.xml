@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://huskyff.blog/"/>
-  <updated>2020-06-28T15:08:05.767Z</updated>
+  <updated>2020-06-30T14:29:40.765Z</updated>
   <id>https://huskyff.blog/</id>
   
   <author>
@@ -15,6 +15,30 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>建立你的資產配置</title>
+    <link href="https://huskyff.blog/2020/06/30/create-your-portfolio/"/>
+    <id>https://huskyff.blog/2020/06/30/create-your-portfolio/</id>
+    <published>2020-06-29T16:00:00.000Z</published>
+    <updated>2020-06-30T14:29:40.765Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;資產配置是投資中重要的概念，有系統的分配自己的本金，在獲得同樣報酬時降低潛在的風險。&lt;/p&gt;
+&lt;p&gt;在 &lt;a href=&quot;https://huskyff.blog/2020/06/22/power-of-diversity/&quot;&gt;分散投資的力量&lt;/a&gt; 中，有提到「不要把雞蛋都放在同一個籃子裡」的基本思路，這篇文章會舉一些實際的操作擴展到資產配置的範例。&lt;/p&gt;
+    
+    </summary>
+    
+    
+    
+      <category term="投資" scheme="https://huskyff.blog/tags/%E6%8A%95%E8%B3%87/"/>
+    
+      <category term="觀念" scheme="https://huskyff.blog/tags/%E8%A7%80%E5%BF%B5/"/>
+    
+      <category term="資產配置" scheme="https://huskyff.blog/tags/%E8%B3%87%E7%94%A2%E9%85%8D%E7%BD%AE/"/>
+    
+  </entry>
   
   <entry>
     <title>主動收入 vs 被動收入</title>
