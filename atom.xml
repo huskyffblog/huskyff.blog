@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://huskyff.blog/"/>
-  <updated>2020-07-07T14:43:53.037Z</updated>
+  <updated>2020-07-08T08:35:11.305Z</updated>
   <id>https://huskyff.blog/</id>
   
   <author>
@@ -15,6 +15,32 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>資產配置再平衡</title>
+    <link href="https://huskyff.blog/2020/07/08/portfolio-rebalance/"/>
+    <id>https://huskyff.blog/2020/07/08/portfolio-rebalance/</id>
+    <published>2020-07-07T16:00:00.000Z</published>
+    <updated>2020-07-08T08:35:11.305Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;之前 &lt;a href=&quot;https://huskyff.blog/2020/06/30/create-your-portfolio/&quot;&gt;建立你的資產配置&lt;/a&gt; 有講到了資產配置的概念，本篇文章將講解資產配置再平衡的概念。&lt;/p&gt;
+&lt;p&gt;再平衡的意思就是維持起初投資所設定的比例，如果一開始設定股：債 = 7：3，過了一年之後如果股票漲了，比例變成 8：2，那就將股票賣掉一單位，買入債券。讓比例再回到 7：3 的狀態。&lt;/p&gt;
+    
+    </summary>
+    
+    
+    
+      <category term="投資" scheme="https://huskyff.blog/tags/%E6%8A%95%E8%B3%87/"/>
+    
+      <category term="觀念" scheme="https://huskyff.blog/tags/%E8%A7%80%E5%BF%B5/"/>
+    
+      <category term="資產配置" scheme="https://huskyff.blog/tags/%E8%B3%87%E7%94%A2%E9%85%8D%E7%BD%AE/"/>
+    
+      <category term="再平衡" scheme="https://huskyff.blog/tags/%E5%86%8D%E5%B9%B3%E8%A1%A1/"/>
+    
+  </entry>
   
   <entry>
     <title>減少你的花費</title>
@@ -488,30 +514,6 @@
       <category term="觀念" scheme="https://huskyff.blog/tags/%E8%A7%80%E5%BF%B5/"/>
     
       <category term="策略" scheme="https://huskyff.blog/tags/%E7%AD%96%E7%95%A5/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>被動收入來源 (1) 股票</title>
-    <link href="https://huskyff.blog/2020/06/18/passive-income-source-1-stock/"/>
-    <id>https://huskyff.blog/2020/06/18/passive-income-source-1-stock/</id>
-    <published>2020-06-17T16:00:00.000Z</published>
-    <updated>2020-06-22T02:45:58.701Z</updated>
-    
-    <summary type="html">
-    
-      &lt;p&gt;股票是大多數人佔有很高比例的被動收入來源之一。&lt;/p&gt;
-&lt;p&gt;股票是由公司發行的有價債券，相當於分散出公司的權利，當公司獲利時股票就會變得值錢，公司有盈餘時多數公司也會發放股利，那股票持有人就能有股利收入。&lt;/p&gt;
-    
-    </summary>
-    
-    
-    
-      <category term="被動收入" scheme="https://huskyff.blog/tags/%E8%A2%AB%E5%8B%95%E6%94%B6%E5%85%A5/"/>
-    
-      <category term="股票" scheme="https://huskyff.blog/tags/%E8%82%A1%E7%A5%A8/"/>
-    
-      <category term="大盤" scheme="https://huskyff.blog/tags/%E5%A4%A7%E7%9B%A4/"/>
     
   </entry>
   

@@ -15,8 +15,24 @@
     <atom:link href="/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description></description>
-    <pubDate>Tue, 07 Jul 2020 14:43:53 GMT</pubDate>
+    <pubDate>Wed, 08 Jul 2020 08:35:11 GMT</pubDate>
     <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>資產配置再平衡</title>
+      <link>https://huskyff.blog/2020/07/08/portfolio-rebalance/</link>
+      <guid>https://huskyff.blog/2020/07/08/portfolio-rebalance/</guid>
+      <pubDate>Tue, 07 Jul 2020 16:00:00 GMT</pubDate>
+      <description>
+      
+        &lt;p&gt;之前 &lt;a href=&quot;https://huskyff.blog/2020/06/30/create-your-portfolio/&quot;&gt;建立你的資產配置&lt;/a&gt; 有講到了資產配置的概念，本篇文章將講解資產配置再平衡的概念。&lt;/p&gt;
+&lt;p&gt;再平衡的意思就是維持起初投資所設定的比例，如果一開始設定股：債 = 7：3，過了一年之後如果股票漲了，比例變成 8：2，那就將股票賣掉一單位，買入債券。讓比例再回到 7：3 的狀態。&lt;/p&gt;
+      
+      </description>
+      
+      
+      <comments>https://huskyff.blog/2020/07/08/portfolio-rebalance/#disqus_thread</comments>
+    </item>
     
     <item>
       <title>減少你的花費</title>
@@ -319,22 +335,6 @@
       
       
       <comments>https://huskyff.blog/2020/06/19/a-simple-strategy/#disqus_thread</comments>
-    </item>
-    
-    <item>
-      <title>被動收入來源 (1) 股票</title>
-      <link>https://huskyff.blog/2020/06/18/passive-income-source-1-stock/</link>
-      <guid>https://huskyff.blog/2020/06/18/passive-income-source-1-stock/</guid>
-      <pubDate>Wed, 17 Jun 2020 16:00:00 GMT</pubDate>
-      <description>
-      
-        &lt;p&gt;股票是大多數人佔有很高比例的被動收入來源之一。&lt;/p&gt;
-&lt;p&gt;股票是由公司發行的有價債券，相當於分散出公司的權利，當公司獲利時股票就會變得值錢，公司有盈餘時多數公司也會發放股利，那股票持有人就能有股利收入。&lt;/p&gt;
-      
-      </description>
-      
-      
-      <comments>https://huskyff.blog/2020/06/18/passive-income-source-1-stock/#disqus_thread</comments>
     </item>
     
   </channel>
