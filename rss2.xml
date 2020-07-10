@@ -15,8 +15,24 @@
     <atom:link href="/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description></description>
-    <pubDate>Wed, 08 Jul 2020 09:47:52 GMT</pubDate>
+    <pubDate>Fri, 10 Jul 2020 14:11:15 GMT</pubDate>
     <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>主動收入來源 (1) 受僱員工</title>
+      <link>https://huskyff.blog/2020/07/10/active-income-source-1-employee/</link>
+      <guid>https://huskyff.blog/2020/07/10/active-income-source-1-employee/</guid>
+      <pubDate>Thu, 09 Jul 2020 16:00:00 GMT</pubDate>
+      <description>
+      
+        &lt;p&gt;當個受僱員工是大多數人佔有很高比例、花費很多時間的主動收入來源。&lt;/p&gt;
+&lt;p&gt;根據 &lt;a href=&quot;http://statdb.mol.gov.tw/html/mon/5%E5%85%A8%E6%96%87%E7%80%8F%E8%A6%BD.pdf&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;台灣勞動部 - 勞動統計月報&lt;/a&gt;，台灣 2020 年 6 月總就業人口約為 1146 萬人，其中雇主、自營工作者有 176 萬人，無酬家屬工作者有 56 萬人，其餘為受僱員工 914 萬人，受僱率為 79.77%。&lt;/p&gt;
+      
+      </description>
+      
+      
+      <comments>https://huskyff.blog/2020/07/10/active-income-source-1-employee/#disqus_thread</comments>
+    </item>
     
     <item>
       <title>被動收入實例 (6-1) 陽光伏特加</title>
@@ -320,22 +336,6 @@
       
       
       <comments>https://huskyff.blog/2020/06/21/passive-income-source-3-lending/#disqus_thread</comments>
-    </item>
-    
-    <item>
-      <title>被動收入來源 (2) 房地產</title>
-      <link>https://huskyff.blog/2020/06/20/passive-income-source-2-real-estate/</link>
-      <guid>https://huskyff.blog/2020/06/20/passive-income-source-2-real-estate/</guid>
-      <pubDate>Fri, 19 Jun 2020 16:00:00 GMT</pubDate>
-      <description>
-      
-        &lt;p&gt;房地產也算是很多人的被動收入來源之一。&lt;/p&gt;
-&lt;p&gt;雖然許多投資房地產的人都不是為了他的現金流，而是期望房地產本身的增值，然後利用出租收入的房租負擔房屋貸款，不過在過程中如果造成的正的現金流也算是一種被動收入的來源。&lt;/p&gt;
-      
-      </description>
-      
-      
-      <comments>https://huskyff.blog/2020/06/20/passive-income-source-2-real-estate/#disqus_thread</comments>
     </item>
     
   </channel>

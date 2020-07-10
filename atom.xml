@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://huskyff.blog/"/>
-  <updated>2020-07-08T09:47:52.658Z</updated>
+  <updated>2020-07-10T14:11:15.051Z</updated>
   <id>https://huskyff.blog/</id>
   
   <author>
@@ -15,6 +15,28 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>主動收入來源 (1) 受僱員工</title>
+    <link href="https://huskyff.blog/2020/07/10/active-income-source-1-employee/"/>
+    <id>https://huskyff.blog/2020/07/10/active-income-source-1-employee/</id>
+    <published>2020-07-09T16:00:00.000Z</published>
+    <updated>2020-07-10T14:11:15.051Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;當個受僱員工是大多數人佔有很高比例、花費很多時間的主動收入來源。&lt;/p&gt;
+&lt;p&gt;根據 &lt;a href=&quot;http://statdb.mol.gov.tw/html/mon/5%E5%85%A8%E6%96%87%E7%80%8F%E8%A6%BD.pdf&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;台灣勞動部 - 勞動統計月報&lt;/a&gt;，台灣 2020 年 6 月總就業人口約為 1146 萬人，其中雇主、自營工作者有 176 萬人，無酬家屬工作者有 56 萬人，其餘為受僱員工 914 萬人，受僱率為 79.77%。&lt;/p&gt;
+    
+    </summary>
+    
+    
+    
+      <category term="主動收入" scheme="https://huskyff.blog/tags/%E4%B8%BB%E5%8B%95%E6%94%B6%E5%85%A5/"/>
+    
+      <category term="正職" scheme="https://huskyff.blog/tags/%E6%AD%A3%E8%81%B7/"/>
+    
+  </entry>
   
   <entry>
     <title>被動收入實例 (6-1) 陽光伏特加</title>
@@ -491,32 +513,6 @@
       <category term="公司債" scheme="https://huskyff.blog/tags/%E5%85%AC%E5%8F%B8%E5%82%B5/"/>
     
       <category term="國債" scheme="https://huskyff.blog/tags/%E5%9C%8B%E5%82%B5/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>被動收入來源 (2) 房地產</title>
-    <link href="https://huskyff.blog/2020/06/20/passive-income-source-2-real-estate/"/>
-    <id>https://huskyff.blog/2020/06/20/passive-income-source-2-real-estate/</id>
-    <published>2020-06-19T16:00:00.000Z</published>
-    <updated>2020-06-22T02:45:58.703Z</updated>
-    
-    <summary type="html">
-    
-      &lt;p&gt;房地產也算是很多人的被動收入來源之一。&lt;/p&gt;
-&lt;p&gt;雖然許多投資房地產的人都不是為了他的現金流，而是期望房地產本身的增值，然後利用出租收入的房租負擔房屋貸款，不過在過程中如果造成的正的現金流也算是一種被動收入的來源。&lt;/p&gt;
-    
-    </summary>
-    
-    
-    
-      <category term="被動收入" scheme="https://huskyff.blog/tags/%E8%A2%AB%E5%8B%95%E6%94%B6%E5%85%A5/"/>
-    
-      <category term="房地產" scheme="https://huskyff.blog/tags/%E6%88%BF%E5%9C%B0%E7%94%A2/"/>
-    
-      <category term="租屋" scheme="https://huskyff.blog/tags/%E7%A7%9F%E5%B1%8B/"/>
-    
-      <category term="二房東" scheme="https://huskyff.blog/tags/%E4%BA%8C%E6%88%BF%E6%9D%B1/"/>
     
   </entry>
   
