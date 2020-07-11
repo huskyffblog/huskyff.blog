@@ -15,8 +15,24 @@
     <atom:link href="/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description></description>
-    <pubDate>Fri, 10 Jul 2020 14:11:15 GMT</pubDate>
+    <pubDate>Sat, 11 Jul 2020 07:01:02 GMT</pubDate>
     <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>被動收入實例 (3-1-1) Bitfinex 借貸</title>
+      <link>https://huskyff.blog/2020/07/11/passive-income-example-3-1-1-bitfinex-lending/</link>
+      <guid>https://huskyff.blog/2020/07/11/passive-income-example-3-1-1-bitfinex-lending/</guid>
+      <pubDate>Fri, 10 Jul 2020 16:00:00 GMT</pubDate>
+      <description>
+      
+        &lt;p&gt;Bitfinex Lending 是一個虛擬貨幣中常見的借貸方式。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://support.bitfinex.com/hc/zh-tw/articles/214441185-%E4%BB%80%E9%BA%BC%E6%98%AF%E4%BF%9D%E8%AD%89%E9%87%91%E8%9E%8D%E8%B3%87-&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Bitfinex&lt;/a&gt; 上的借貸是用戶和用戶之間可以互相供需的市場，如果想要借錢給別人，就在 Funding book 上掛單，借出的期限為 2 ~ 30 天，收取利息的 15% 為平台手續費。需要融資 (Margin Trading) 借錢的人可以預先借款，或是在融資購買的當下由系統自動於 Funding book 上吃單。&lt;/p&gt;
+      
+      </description>
+      
+      
+      <comments>https://huskyff.blog/2020/07/11/passive-income-example-3-1-1-bitfinex-lending/#disqus_thread</comments>
+    </item>
     
     <item>
       <title>主動收入來源 (1) 受僱員工</title>
@@ -320,22 +336,6 @@
       
       
       <comments>https://huskyff.blog/2020/06/22/power-of-diversity/#disqus_thread</comments>
-    </item>
-    
-    <item>
-      <title>被動收入來源 (3) 借貸</title>
-      <link>https://huskyff.blog/2020/06/21/passive-income-source-3-lending/</link>
-      <guid>https://huskyff.blog/2020/06/21/passive-income-source-3-lending/</guid>
-      <pubDate>Sat, 20 Jun 2020 16:00:00 GMT</pubDate>
-      <description>
-      
-        &lt;p&gt;借貸也算是一個穩定的被動收入來源。&lt;/p&gt;
-&lt;p&gt;當他人比自己還需要錢時，將錢借助他人，期滿後或在期間內分期還款，再加上一個比例的利息，就是一個模式和報酬相對穩定計算的被動收入。也有政府或是企業發行的債券，也算是借貸收入的來源。&lt;/p&gt;
-      
-      </description>
-      
-      
-      <comments>https://huskyff.blog/2020/06/21/passive-income-source-3-lending/#disqus_thread</comments>
     </item>
     
   </channel>
