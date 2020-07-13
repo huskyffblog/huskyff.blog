@@ -15,8 +15,24 @@
     <atom:link href="/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description></description>
-    <pubDate>Sun, 12 Jul 2020 06:18:35 GMT</pubDate>
+    <pubDate>Sun, 12 Jul 2020 15:12:39 GMT</pubDate>
     <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>被動收入實例 (4-1) 訂閱制</title>
+      <link>https://huskyff.blog/2020/07/13/passive-income-example-4-1-subscription-system/</link>
+      <guid>https://huskyff.blog/2020/07/13/passive-income-example-4-1-subscription-system/</guid>
+      <pubDate>Sun, 12 Jul 2020 16:00:00 GMT</pubDate>
+      <description>
+      
+        &lt;p&gt;訂閱制的普及是近幾年內容創作者的一大福音。&lt;/p&gt;
+&lt;p&gt;早期小額定期付款的服務不是那麼普及，創作者往往要等到作品完成時才能一次性的銷售，這樣在創作早期不但不能提早驗證市場，還可能錯失行銷的機會而導致銷量不好，讓長期的內容創作沒有辦法變成良好的被動收入來源，不好支持生活。&lt;/p&gt;
+      
+      </description>
+      
+      
+      <comments>https://huskyff.blog/2020/07/13/passive-income-example-4-1-subscription-system/#disqus_thread</comments>
+    </item>
     
     <item>
       <title>主動收入來源 (2) 創業</title>
@@ -320,22 +336,6 @@
       
       
       <comments>https://huskyff.blog/2020/06/24/calculate-your-passive-income-trend/#disqus_thread</comments>
-    </item>
-    
-    <item>
-      <title>被動收入來源 (3-1) 虛擬貨幣借貸</title>
-      <link>https://huskyff.blog/2020/06/23/passive-income-source-3-1-crypto-lending/</link>
-      <guid>https://huskyff.blog/2020/06/23/passive-income-source-3-1-crypto-lending/</guid>
-      <pubDate>Mon, 22 Jun 2020 16:00:00 GMT</pubDate>
-      <description>
-      
-        &lt;p&gt;近幾年虛擬貨幣興起，讓虛擬貨幣借貸市場也發展起來，也因為算是新興市場，風險和報酬都比傳統借貸市場來得高一些。&lt;/p&gt;
-&lt;p&gt;虛擬貨幣的借貸市場大致可分為幾種：交易所產品借貸、交易所用戶借貸、智能合約借貸、第三方平台借貸等。借貸的貨幣可能是各式各樣的虛擬貨幣，因為這邊討論的是被動收入，所以為了避免掉波動的風險，就以虛擬貨幣穩定幣講解為主，以下簡稱「穩定幣」。&lt;/p&gt;
-      
-      </description>
-      
-      
-      <comments>https://huskyff.blog/2020/06/23/passive-income-source-3-1-crypto-lending/#disqus_thread</comments>
     </item>
     
   </channel>
