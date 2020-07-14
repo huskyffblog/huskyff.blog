@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://huskyff.blog/"/>
-  <updated>2020-07-12T15:12:39.131Z</updated>
+  <updated>2020-07-14T15:42:28.321Z</updated>
   <id>https://huskyff.blog/</id>
   
   <author>
@@ -15,6 +15,32 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>財務自由之外不能忽略的事情</title>
+    <link href="https://huskyff.blog/2020/07/14/outside-money/"/>
+    <id>https://huskyff.blog/2020/07/14/outside-money/</id>
+    <published>2020-07-13T16:00:00.000Z</published>
+    <updated>2020-07-14T15:42:28.321Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;財務自由之外也是有很多不能忽略的事情。&lt;/p&gt;
+&lt;p&gt;很多事情是無法用金錢衡量的，金錢在這方面沒有直接的效用，只能輔助。這不代表錢是不重要的，錢還是很必要，只是過了一定數量錢的門檻之後對於事情的成果就影響不大了。&lt;/p&gt;
+    
+    </summary>
+    
+    
+    
+      <category term="財務自由" scheme="https://huskyff.blog/tags/%E8%B2%A1%E5%8B%99%E8%87%AA%E7%94%B1/"/>
+    
+      <category term="人生選擇" scheme="https://huskyff.blog/tags/%E4%BA%BA%E7%94%9F%E9%81%B8%E6%93%87/"/>
+    
+      <category term="觀念" scheme="https://huskyff.blog/tags/%E8%A7%80%E5%BF%B5/"/>
+    
+      <category term="智慧" scheme="https://huskyff.blog/tags/%E6%99%BA%E6%85%A7/"/>
+    
+  </entry>
   
   <entry>
     <title>被動收入實例 (4-1) 訂閱制</title>
@@ -481,34 +507,6 @@
       <category term="美股" scheme="https://huskyff.blog/tags/%E7%BE%8E%E8%82%A1/"/>
     
       <category term="實例" scheme="https://huskyff.blog/tags/%E5%AF%A6%E4%BE%8B/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>計算你的被動收入趨勢</title>
-    <link href="https://huskyff.blog/2020/06/24/calculate-your-passive-income-trend/"/>
-    <id>https://huskyff.blog/2020/06/24/calculate-your-passive-income-trend/</id>
-    <published>2020-06-23T16:00:00.000Z</published>
-    <updated>2020-07-03T13:16:34.355Z</updated>
-    
-    <summary type="html">
-    
-      &lt;p&gt;這篇文章將使用 Google Sheet 做一個簡單的被動收入趨勢範例。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;/images/20200624-calculate-your-passive-income-trend/sample.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
-    
-    </summary>
-    
-    
-    
-      <category term="被動收入" scheme="https://huskyff.blog/tags/%E8%A2%AB%E5%8B%95%E6%94%B6%E5%85%A5/"/>
-    
-      <category term="投資" scheme="https://huskyff.blog/tags/%E6%8A%95%E8%B3%87/"/>
-    
-      <category term="策略" scheme="https://huskyff.blog/tags/%E7%AD%96%E7%95%A5/"/>
-    
-      <category term="圖表" scheme="https://huskyff.blog/tags/%E5%9C%96%E8%A1%A8/"/>
-    
-      <category term="工具" scheme="https://huskyff.blog/tags/%E5%B7%A5%E5%85%B7/"/>
     
   </entry>
   

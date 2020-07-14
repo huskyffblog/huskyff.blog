@@ -15,8 +15,24 @@
     <atom:link href="/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description></description>
-    <pubDate>Sun, 12 Jul 2020 15:12:39 GMT</pubDate>
+    <pubDate>Tue, 14 Jul 2020 15:42:28 GMT</pubDate>
     <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>財務自由之外不能忽略的事情</title>
+      <link>https://huskyff.blog/2020/07/14/outside-money/</link>
+      <guid>https://huskyff.blog/2020/07/14/outside-money/</guid>
+      <pubDate>Mon, 13 Jul 2020 16:00:00 GMT</pubDate>
+      <description>
+      
+        &lt;p&gt;財務自由之外也是有很多不能忽略的事情。&lt;/p&gt;
+&lt;p&gt;很多事情是無法用金錢衡量的，金錢在這方面沒有直接的效用，只能輔助。這不代表錢是不重要的，錢還是很必要，只是過了一定數量錢的門檻之後對於事情的成果就影響不大了。&lt;/p&gt;
+      
+      </description>
+      
+      
+      <comments>https://huskyff.blog/2020/07/14/outside-money/#disqus_thread</comments>
+    </item>
     
     <item>
       <title>被動收入實例 (4-1) 訂閱制</title>
@@ -320,22 +336,6 @@
       
       
       <comments>https://huskyff.blog/2020/06/25/passive-income-example-1-1-vti/#disqus_thread</comments>
-    </item>
-    
-    <item>
-      <title>計算你的被動收入趨勢</title>
-      <link>https://huskyff.blog/2020/06/24/calculate-your-passive-income-trend/</link>
-      <guid>https://huskyff.blog/2020/06/24/calculate-your-passive-income-trend/</guid>
-      <pubDate>Tue, 23 Jun 2020 16:00:00 GMT</pubDate>
-      <description>
-      
-        &lt;p&gt;這篇文章將使用 Google Sheet 做一個簡單的被動收入趨勢範例。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;/images/20200624-calculate-your-passive-income-trend/sample.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
-      
-      </description>
-      
-      
-      <comments>https://huskyff.blog/2020/06/24/calculate-your-passive-income-trend/#disqus_thread</comments>
     </item>
     
   </channel>
