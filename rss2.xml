@@ -15,8 +15,24 @@
     <atom:link href="/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description></description>
-    <pubDate>Tue, 14 Jul 2020 15:42:28 GMT</pubDate>
+    <pubDate>Wed, 15 Jul 2020 09:25:26 GMT</pubDate>
     <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>主動收入實例 (2-1) Open Startup</title>
+      <link>https://huskyff.blog/2020/07/15/passive-income-example-5-1-open-startup/</link>
+      <guid>https://huskyff.blog/2020/07/15/passive-income-example-5-1-open-startup/</guid>
+      <pubDate>Tue, 14 Jul 2020 16:00:00 GMT</pubDate>
+      <description>
+      
+        &lt;p&gt;打造一個新創或一個數位產品的過程中，可能會對一些數字不了解，許多公司也不方便公開這些數字。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://hackernoon.com/what-does-it-mean-to-be-an-open-startup-f4446984189&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Open Startup&lt;/a&gt; 就是在打造產品的過程中，將營運面的資料都公開，比如說用戶人數變化、成長趨勢、營業額、利潤率等等資訊，讓其他想要打造類似產品的人可以比較了解產品大概的輪廓，也可以讓想打造新產品的人知道產品的發展大概是怎麼一回事，投資人也可以更快速了解產品營運狀況。&lt;/p&gt;
+      
+      </description>
+      
+      
+      <comments>https://huskyff.blog/2020/07/15/passive-income-example-5-1-open-startup/#disqus_thread</comments>
+    </item>
     
     <item>
       <title>財務自由之外不能忽略的事情</title>
@@ -320,22 +336,6 @@
       
       
       <comments>https://huskyff.blog/2020/06/26/passive-income-source-4-content-creation/#disqus_thread</comments>
-    </item>
-    
-    <item>
-      <title>被動收入實例 (1-1) VTI</title>
-      <link>https://huskyff.blog/2020/06/25/passive-income-example-1-1-vti/</link>
-      <guid>https://huskyff.blog/2020/06/25/passive-income-example-1-1-vti/</guid>
-      <pubDate>Wed, 24 Jun 2020 16:00:00 GMT</pubDate>
-      <description>
-      
-        &lt;p&gt;本篇文章將舉 VTI 作為一個被動收入的實際案例。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://investor.vanguard.com/etf/profile/VTI&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;VTI&lt;/a&gt; 是 Vanguard 先鋒基金出的整體股市 ETF (Vanguard Total Stock Market ETF)，追蹤的指數是 CRSP 美國全市場指數 (CRSP US Total Market Index)，管理費為每年 0.03%。&lt;/p&gt;
-      
-      </description>
-      
-      
-      <comments>https://huskyff.blog/2020/06/25/passive-income-example-1-1-vti/#disqus_thread</comments>
     </item>
     
   </channel>

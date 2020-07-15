@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://huskyff.blog/"/>
-  <updated>2020-07-14T15:42:28.321Z</updated>
+  <updated>2020-07-15T09:25:26.663Z</updated>
   <id>https://huskyff.blog/</id>
   
   <author>
@@ -15,6 +15,32 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>主動收入實例 (2-1) Open Startup</title>
+    <link href="https://huskyff.blog/2020/07/15/passive-income-example-5-1-open-startup/"/>
+    <id>https://huskyff.blog/2020/07/15/passive-income-example-5-1-open-startup/</id>
+    <published>2020-07-14T16:00:00.000Z</published>
+    <updated>2020-07-15T09:25:26.663Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;打造一個新創或一個數位產品的過程中，可能會對一些數字不了解，許多公司也不方便公開這些數字。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://hackernoon.com/what-does-it-mean-to-be-an-open-startup-f4446984189&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Open Startup&lt;/a&gt; 就是在打造產品的過程中，將營運面的資料都公開，比如說用戶人數變化、成長趨勢、營業額、利潤率等等資訊，讓其他想要打造類似產品的人可以比較了解產品大概的輪廓，也可以讓想打造新產品的人知道產品的發展大概是怎麼一回事，投資人也可以更快速了解產品營運狀況。&lt;/p&gt;
+    
+    </summary>
+    
+    
+    
+      <category term="被動收入" scheme="https://huskyff.blog/tags/%E8%A2%AB%E5%8B%95%E6%94%B6%E5%85%A5/"/>
+    
+      <category term="產品" scheme="https://huskyff.blog/tags/%E7%94%A2%E5%93%81/"/>
+    
+      <category term="主動收入" scheme="https://huskyff.blog/tags/%E4%B8%BB%E5%8B%95%E6%94%B6%E5%85%A5/"/>
+    
+      <category term="Opendata" scheme="https://huskyff.blog/tags/Opendata/"/>
+    
+  </entry>
   
   <entry>
     <title>財務自由之外不能忽略的事情</title>
@@ -481,32 +507,6 @@
       <category term="內容創作" scheme="https://huskyff.blog/tags/%E5%85%A7%E5%AE%B9%E5%89%B5%E4%BD%9C/"/>
     
       <category term="創作" scheme="https://huskyff.blog/tags/%E5%89%B5%E4%BD%9C/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>被動收入實例 (1-1) VTI</title>
-    <link href="https://huskyff.blog/2020/06/25/passive-income-example-1-1-vti/"/>
-    <id>https://huskyff.blog/2020/06/25/passive-income-example-1-1-vti/</id>
-    <published>2020-06-24T16:00:00.000Z</published>
-    <updated>2020-07-04T14:47:46.544Z</updated>
-    
-    <summary type="html">
-    
-      &lt;p&gt;本篇文章將舉 VTI 作為一個被動收入的實際案例。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://investor.vanguard.com/etf/profile/VTI&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;VTI&lt;/a&gt; 是 Vanguard 先鋒基金出的整體股市 ETF (Vanguard Total Stock Market ETF)，追蹤的指數是 CRSP 美國全市場指數 (CRSP US Total Market Index)，管理費為每年 0.03%。&lt;/p&gt;
-    
-    </summary>
-    
-    
-    
-      <category term="被動收入" scheme="https://huskyff.blog/tags/%E8%A2%AB%E5%8B%95%E6%94%B6%E5%85%A5/"/>
-    
-      <category term="大盤" scheme="https://huskyff.blog/tags/%E5%A4%A7%E7%9B%A4/"/>
-    
-      <category term="美股" scheme="https://huskyff.blog/tags/%E7%BE%8E%E8%82%A1/"/>
-    
-      <category term="實例" scheme="https://huskyff.blog/tags/%E5%AF%A6%E4%BE%8B/"/>
     
   </entry>
   
