@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://huskyff.blog/"/>
-  <updated>2020-07-16T15:06:55.485Z</updated>
+  <updated>2020-07-17T09:50:14.739Z</updated>
   <id>https://huskyff.blog/</id>
   
   <author>
@@ -15,6 +15,32 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>被動收入實例 (1-4) VT</title>
+    <link href="https://huskyff.blog/2020/07/17/passive-income-example-1-4-vt/"/>
+    <id>https://huskyff.blog/2020/07/17/passive-income-example-1-4-vt/</id>
+    <published>2020-07-16T16:00:00.000Z</published>
+    <updated>2020-07-17T09:50:14.739Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;本篇文章將舉 VT 作為一個被動收入的實際案例。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://investor.vanguard.com/etf/profile/VT&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;VT&lt;/a&gt; 是 Vanguard 先鋒基金出的全世界股市 ETF (Vanguard Total World Stock ETF)，追蹤的指數是富時全球全市場指數 (FTSE Global All Cap Index)，管理費為每年 0.08%。&lt;/p&gt;
+    
+    </summary>
+    
+    
+    
+      <category term="被動收入" scheme="https://huskyff.blog/tags/%E8%A2%AB%E5%8B%95%E6%94%B6%E5%85%A5/"/>
+    
+      <category term="大盤" scheme="https://huskyff.blog/tags/%E5%A4%A7%E7%9B%A4/"/>
+    
+      <category term="美股" scheme="https://huskyff.blog/tags/%E7%BE%8E%E8%82%A1/"/>
+    
+      <category term="實例" scheme="https://huskyff.blog/tags/%E5%AF%A6%E4%BE%8B/"/>
+    
+  </entry>
   
   <entry>
     <title>被動收入實例 (3-1-2) Crypto.com 定存</title>
@@ -481,34 +507,6 @@
       <category term="被動收入" scheme="https://huskyff.blog/tags/%E8%A2%AB%E5%8B%95%E6%94%B6%E5%85%A5/"/>
     
       <category term="設備" scheme="https://huskyff.blog/tags/%E8%A8%AD%E5%82%99/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>被動收入來源 (5) 數位產品</title>
-    <link href="https://huskyff.blog/2020/06/27/passive-income-source-5-product/"/>
-    <id>https://huskyff.blog/2020/06/27/passive-income-source-5-product/</id>
-    <published>2020-06-26T16:00:00.000Z</published>
-    <updated>2020-06-28T09:56:01.382Z</updated>
-    
-    <summary type="html">
-    
-      &lt;p&gt;製作出一個「數位產品」，透過持續的販售、廣告或訂閱獲取收入，也是個被動收入的來源。&lt;/p&gt;
-&lt;p&gt;常見的數位產品像是網站、App 和服務。數位產品有別於一般實體產品，通常是透過網路，可以經由線上購買，快速的規模化。&lt;/p&gt;
-    
-    </summary>
-    
-    
-    
-      <category term="被動收入" scheme="https://huskyff.blog/tags/%E8%A2%AB%E5%8B%95%E6%94%B6%E5%85%A5/"/>
-    
-      <category term="服務" scheme="https://huskyff.blog/tags/%E6%9C%8D%E5%8B%99/"/>
-    
-      <category term="網站" scheme="https://huskyff.blog/tags/%E7%B6%B2%E7%AB%99/"/>
-    
-      <category term="App" scheme="https://huskyff.blog/tags/App/"/>
-    
-      <category term="產品" scheme="https://huskyff.blog/tags/%E7%94%A2%E5%93%81/"/>
     
   </entry>
   
