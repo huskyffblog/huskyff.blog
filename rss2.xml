@@ -15,8 +15,24 @@
     <atom:link href="/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description></description>
-    <pubDate>Fri, 17 Jul 2020 09:50:14 GMT</pubDate>
+    <pubDate>Sat, 18 Jul 2020 15:35:50 GMT</pubDate>
     <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>建立你的投資計畫教學 (1) - 了解花費</title>
+      <link>https://huskyff.blog/2020/07/18/build-your-invest-plan-1-know-yourself/</link>
+      <guid>https://huskyff.blog/2020/07/18/build-your-invest-plan-1-know-yourself/</guid>
+      <pubDate>Fri, 17 Jul 2020 16:00:00 GMT</pubDate>
+      <description>
+      
+        &lt;p&gt;投資是需要從長計議的，根據之前幾篇文章的介紹，你是不是也怦然心動了呢？&lt;/p&gt;
+&lt;p&gt;這一系列的「建立你的投資計畫教學」就是將之前的主被動收入來源、實例再做更 Step by Step 的教學，希望大家都能輕易上手喔！&lt;/p&gt;
+      
+      </description>
+      
+      
+      <comments>https://huskyff.blog/2020/07/18/build-your-invest-plan-1-know-yourself/#disqus_thread</comments>
+    </item>
     
     <item>
       <title>被動收入實例 (1-4) VT</title>
@@ -320,22 +336,6 @@
       
       
       <comments>https://huskyff.blog/2020/06/29/active-income-vs-passive-income/#disqus_thread</comments>
-    </item>
-    
-    <item>
-      <title>被動收入來源 (6) 設備</title>
-      <link>https://huskyff.blog/2020/06/28/passive-income-source-6-equipment/</link>
-      <guid>https://huskyff.blog/2020/06/28/passive-income-source-6-equipment/</guid>
-      <pubDate>Sat, 27 Jun 2020 16:00:00 GMT</pubDate>
-      <description>
-      
-        &lt;p&gt;實體的設備也可以是一個被動收入的來源。&lt;/p&gt;
-&lt;p&gt;主要分成自助設備和產出設備。自助設備像是：投幣式洗衣機、自動販賣機、自動加水站、娃娃機等等。產出設備像是：太陽能板和虛擬貨幣的礦機等等。&lt;/p&gt;
-      
-      </description>
-      
-      
-      <comments>https://huskyff.blog/2020/06/28/passive-income-source-6-equipment/#disqus_thread</comments>
     </item>
     
   </channel>

@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://huskyff.blog/"/>
-  <updated>2020-07-17T09:50:14.739Z</updated>
+  <updated>2020-07-18T15:35:50.423Z</updated>
   <id>https://huskyff.blog/</id>
   
   <author>
@@ -15,6 +15,30 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>建立你的投資計畫教學 (1) - 了解花費</title>
+    <link href="https://huskyff.blog/2020/07/18/build-your-invest-plan-1-know-yourself/"/>
+    <id>https://huskyff.blog/2020/07/18/build-your-invest-plan-1-know-yourself/</id>
+    <published>2020-07-17T16:00:00.000Z</published>
+    <updated>2020-07-18T15:35:50.423Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;投資是需要從長計議的，根據之前幾篇文章的介紹，你是不是也怦然心動了呢？&lt;/p&gt;
+&lt;p&gt;這一系列的「建立你的投資計畫教學」就是將之前的主被動收入來源、實例再做更 Step by Step 的教學，希望大家都能輕易上手喔！&lt;/p&gt;
+    
+    </summary>
+    
+    
+    
+      <category term="投資" scheme="https://huskyff.blog/tags/%E6%8A%95%E8%B3%87/"/>
+    
+      <category term="觀念" scheme="https://huskyff.blog/tags/%E8%A7%80%E5%BF%B5/"/>
+    
+      <category term="投資計畫系列" scheme="https://huskyff.blog/tags/%E6%8A%95%E8%B3%87%E8%A8%88%E7%95%AB%E7%B3%BB%E5%88%97/"/>
+    
+  </entry>
   
   <entry>
     <title>被動收入實例 (1-4) VT</title>
@@ -485,28 +509,6 @@
       <category term="觀念" scheme="https://huskyff.blog/tags/%E8%A7%80%E5%BF%B5/"/>
     
       <category term="主動收入" scheme="https://huskyff.blog/tags/%E4%B8%BB%E5%8B%95%E6%94%B6%E5%85%A5/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>被動收入來源 (6) 設備</title>
-    <link href="https://huskyff.blog/2020/06/28/passive-income-source-6-equipment/"/>
-    <id>https://huskyff.blog/2020/06/28/passive-income-source-6-equipment/</id>
-    <published>2020-06-27T16:00:00.000Z</published>
-    <updated>2020-06-28T10:50:22.732Z</updated>
-    
-    <summary type="html">
-    
-      &lt;p&gt;實體的設備也可以是一個被動收入的來源。&lt;/p&gt;
-&lt;p&gt;主要分成自助設備和產出設備。自助設備像是：投幣式洗衣機、自動販賣機、自動加水站、娃娃機等等。產出設備像是：太陽能板和虛擬貨幣的礦機等等。&lt;/p&gt;
-    
-    </summary>
-    
-    
-    
-      <category term="被動收入" scheme="https://huskyff.blog/tags/%E8%A2%AB%E5%8B%95%E6%94%B6%E5%85%A5/"/>
-    
-      <category term="設備" scheme="https://huskyff.blog/tags/%E8%A8%AD%E5%82%99/"/>
     
   </entry>
   
