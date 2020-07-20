@@ -15,8 +15,24 @@
     <atom:link href="/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description></description>
-    <pubDate>Sun, 19 Jul 2020 13:52:02 GMT</pubDate>
+    <pubDate>Mon, 20 Jul 2020 14:53:10 GMT</pubDate>
     <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>自煮省錢計畫 (上)</title>
+      <link>https://huskyff.blog/2020/07/20/self-cook-guide-part1/</link>
+      <guid>https://huskyff.blog/2020/07/20/self-cook-guide-part1/</guid>
+      <pubDate>Sun, 19 Jul 2020 16:00:00 GMT</pubDate>
+      <description>
+      
+        &lt;p&gt;上篇 &lt;a href=&quot;https://huskyff.blog/2020/07/19/build-your-invest-plan-2-yearly-guideline/&quot;&gt;建立你的投資計畫 (2) - 年度計畫&lt;/a&gt; 中有提到，大明學習烹飪之後，伙食費從每個月 13,000 掉到 10,000 元，有網友問我怎麼辦到的，這篇文章就列出一些簡單的自煮食譜提供給大家參考啦！&lt;/p&gt;
+&lt;p&gt;自己煮飯如果要省錢的話，盡量要避免食材的浪費，所以要規劃一下大概煮什麼，冰箱比較不容易囤著很多用不太到的食材，放久也不新鮮。不但減少金錢花費，也減少對地球資源的浪費喔！&lt;/p&gt;
+      
+      </description>
+      
+      
+      <comments>https://huskyff.blog/2020/07/20/self-cook-guide-part1/#disqus_thread</comments>
+    </item>
     
     <item>
       <title>建立你的投資計畫 (2) - 年度計畫</title>
@@ -320,22 +336,6 @@
       
       
       <comments>https://huskyff.blog/2020/07/01/getting-started/#disqus_thread</comments>
-    </item>
-    
-    <item>
-      <title>建立你的資產配置</title>
-      <link>https://huskyff.blog/2020/06/30/create-your-portfolio/</link>
-      <guid>https://huskyff.blog/2020/06/30/create-your-portfolio/</guid>
-      <pubDate>Mon, 29 Jun 2020 16:00:00 GMT</pubDate>
-      <description>
-      
-        &lt;p&gt;資產配置是投資中重要的概念，有系統的分配自己的本金，在獲得同樣報酬時降低潛在的風險。&lt;/p&gt;
-&lt;p&gt;在 &lt;a href=&quot;https://huskyff.blog/2020/06/22/power-of-diversity/&quot;&gt;分散投資的力量&lt;/a&gt; 中，有提到「不要把雞蛋都放在同一個籃子裡」的基本思路，這篇文章會舉一些實際的操作擴展到資產配置的範例。&lt;/p&gt;
-      
-      </description>
-      
-      
-      <comments>https://huskyff.blog/2020/06/30/create-your-portfolio/#disqus_thread</comments>
     </item>
     
   </channel>
